@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd 
 import plost
 
-st.title('Basic Preformance Dashboard')
+st.title('Basic Performance Dashboard')
  
 tickers = ('TSLA', 'AAPL', 'MSFT')
 
